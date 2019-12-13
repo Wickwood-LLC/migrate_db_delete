@@ -1,0 +1,4 @@
+name: 'Migrate DB Delete'
+type: module
+description: 'Module to delete migration tables'
+core: 8.x
